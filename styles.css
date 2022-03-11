@@ -3,3 +3,9 @@ body {
     background-color: darkslategrey;
     color: lightsteelblue;
 }
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: blanchedalmond;
+}
